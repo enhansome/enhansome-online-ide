@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:33:14Z",
+            "last_commit": "2026-08-13T08:23:17Z",
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21629
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-12T23:33:32Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13755
+            "stars": 13753
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13631
+            "stars": 13630
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2021-03-02T05:11:35Z",
             "owner": "remix-project-org",
             "repo": "remix",
-            "stars": 1169
+            "stars": 1168
           }
         },
         {
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:15.178Z",
+    "last_updated": "2026-08-13T12:01:46.485Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
