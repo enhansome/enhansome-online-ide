@@ -1,0 +1,392 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Legend"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Theia IDE",
+          "description": "Run any language, supports VS Code Extensions, integrates flexible AI Support, based on the Theia Platform, integrates the Monaco Editor .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:33:14Z",
+            "owner": "eclipse-theia",
+            "repo": "theia",
+            "stars": 21629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gitpod",
+          "description": "Run any language on a full Linux VM complete with terminals, GitHub and Git integration, content assist, go-to-definition, linting, live collaboration, custom Docker workspaces, and integrated code review support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:33:32Z",
+            "owner": "gitpod-io",
+            "repo": "gitpod",
+            "stars": 13755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeSandbox",
+          "description": "Run JavaScript with starting templates for React, Vue, Angular, Preact and more with full intellisense, lint error checking and live collaborative editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T11:28:12Z",
+            "owner": "codesandbox",
+            "repo": "codesandbox-client",
+            "stars": 13631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly Studio",
+          "description": "Run C, Rust, Wat, or AssemblyScript code as WebAssembly in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-06-23T22:46:26Z",
+            "owner": "wasdk",
+            "repo": "WebAssemblyStudio",
+            "stars": 2938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colaboratory",
+          "description": "Run Python in a Jupyter notebook with ML libraries and free GPUs for running experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-24T17:23:21Z",
+            "owner": "googlecolab",
+            "repo": "colabtools",
+            "stars": 2578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Cloud9",
+          "description": "Run any language on a full VM complete with a terminal built on Ace Editor .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-15T08:21:50Z",
+            "owner": "c9",
+            "repo": "core",
+            "stars": 2539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remix",
+          "description": "Run Solidity with a compiler, debugger, Static Analyzer for security, and direct access to Ethereum main network and testing networks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-03-02T05:11:35Z",
+            "owner": "remix-project-org",
+            "repo": "remix",
+            "stars": 1169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atheos",
+          "description": "Run most languages using a PHP/Browser based IDE with a terminal, git integration, and syntax highlighting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T11:03:09Z",
+            "owner": "Atheos",
+            "repo": "Atheos",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeEnvy",
+          "description": "Run any language on a full VM complete with Eclipse Che .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-10-01T13:07:54Z",
+            "owner": "codenvy",
+            "repo": "codenvy",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dockside",
+          "description": "Self host parallel access-controlled development containers complete with the Theia IDE and terminal, for developing in any language and multiple architectures, within choice of Docker runtimes; stage running code publicly or securely on own domains over HTTPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:47:20Z",
+            "owner": "newsnowlabs",
+            "repo": "dockside",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wide",
+          "description": "Run Go with full intellisense code-completion, expression-info, and jump to declaration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-20T03:01:41Z",
+            "owner": "88250",
+            "repo": "wide",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superblocks Lab",
+          "description": "Run Solidity with a built-in browser Ethereum blockchain VM, Metamask integration (deployments to Testnet/Mainnet), transaction logger and live code your WebApp, powered by Monaco Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-10T12:52:44Z",
+            "owner": "SuperblocksHQ",
+            "repo": "superblocks-lab",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snack Expo",
+          "description": "Run JavaScript with React Native in the browser and on your mobile iOS or Android.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-12-17T13:29:49Z",
+            "owner": "expo",
+            "repo": "snack-sdk",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Codespaces",
+          "description": "Run any language with VS Code complete with terminal, debugger, GitHub Copilot, version control, settings sync, and extensions.",
+          "children": []
+        }
+      ],
+      "title": "Full IDE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Try It Online",
+          "description": "Run snippets from over 300 languages including esoteric code-golf languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-04-05T05:11:39Z",
+            "owner": "TryItOnline",
+            "repo": "tryitonline",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin-Playgrounds",
+          "description": "Run Kotlin snippets with auto-completion, type checking and automatically translate Java to Kotlin code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-05T11:47:06Z",
+            "owner": "JetBrains",
+            "repo": "kotlin-playground",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scastie",
+          "description": "Run Scala snippets with support of choosing different Scala versions, using any public library, configuring SBT settings, sharing a code snippet, embedding it into your website, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-12T12:49:15Z",
+            "owner": "scalacenter",
+            "repo": "scastie",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLFiddle",
+          "description": "Run snippets of MySQL, MSSQL, PostgreSQL, SQLite, and Oracle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-20T20:52:50Z",
+            "owner": "zzzprojects",
+            "repo": "sqlfiddle3",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript Playground",
+          "description": "Run snippets of TypeScript with tsconfig options and full intellisense.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-12-08T20:28:05Z",
+            "owner": "agentcooper",
+            "repo": "typescript-play",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glot",
+          "description": "Run snippets from over 30 languages as docker containers including C#, Kotlin, Julia, Go, and Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haskell",
+            "last_commit": "2024-02-19T17:02:30Z",
+            "owner": "glotcode",
+            "repo": "glot-www",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PasteRack",
+          "description": "Run Racket snippets with support for sample and recent snippets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2021-09-24T17:48:33Z",
+            "owner": "stchang",
+            "repo": "pasterack",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Snippets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JS Bin",
+          "description": "Run snippets in HTML/CSS/JS/TS, provides Codecasting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-23T20:16:10Z",
+            "owner": "jsbin",
+            "repo": "jsbin",
+            "stars": 4421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveCodes",
+          "description": "Run snippets in 90+ languages/frameworks, including React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and many more. Runs client-side with no backend. Projects can be shared, exported, deployed and embedded. Free AI code assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T21:54:25Z",
+            "owner": "live-codes",
+            "repo": "livecodes",
+            "stars": 1484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flems",
+          "description": "Run snippets in HTML/CSS/JS without a connection to the server (after page load).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-03T06:47:23Z",
+            "owner": "porsager",
+            "repo": "flems",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Popcode",
+          "description": "Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T03:28:49Z",
+            "owner": "popcodeorg",
+            "repo": "popcode",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Web Snippets"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines and code of conduct first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, styfle has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:15.178Z",
+    "original_repository": "styfle/awesome-online-ide",
+    "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
+    "enhanced_repository": "enhansome/enhansome-online-ide",
+    "enhanced_repository_description": null,
+    "title": "Awesome Online IDE with stars"
+  }
+}
