@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T08:23:17Z",
+            "last_commit": "2026-08-14T11:53:49Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21629
+            "stars": 21634
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-08-12T23:33:32Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13753
+            "stars": 13752
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2026-07-24T17:23:21Z",
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2578
+            "stars": 2579
           }
         },
         {
@@ -122,7 +122,7 @@
             "last_commit": "2026-07-20T11:03:09Z",
             "owner": "Atheos",
             "repo": "Atheos",
-            "stars": 676
+            "stars": 677
           }
         },
         {
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:47:20Z",
+            "last_commit": "2026-08-13T21:27:43Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-08T21:54:25Z",
             "owner": "live-codes",
             "repo": "livecodes",
-            "stars": 1484
+            "stars": 1483
           }
         },
         {
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:01:46.485Z",
+    "last_updated": "2026-08-14T11:59:33.140Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
