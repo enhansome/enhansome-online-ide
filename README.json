@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:53:49Z",
+            "last_commit": "2026-08-14T11:59:36Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21634
+            "stars": 21632
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13630
+            "stars": 13631
           }
         },
         {
@@ -77,7 +77,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-24T17:23:21Z",
+            "last_commit": "2026-08-15T01:55:55Z",
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2579
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:27:43Z",
+            "last_commit": "2026-08-15T10:15:06Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:59:33.140Z",
+    "last_updated": "2026-08-15T11:36:42.297Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
