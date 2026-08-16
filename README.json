@@ -24,7 +24,7 @@
             "last_commit": "2026-08-14T11:59:36Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21632
+            "stars": 21634
           }
         },
         {
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T10:15:06Z",
+            "last_commit": "2026-08-15T13:39:57Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-08T21:54:25Z",
+            "last_commit": "2026-08-15T17:00:53Z",
             "owner": "live-codes",
             "repo": "livecodes",
             "stars": 1483
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:36:42.297Z",
+    "last_updated": "2026-08-16T11:36:46.696Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
