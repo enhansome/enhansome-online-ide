@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:59:36Z",
+            "last_commit": "2026-08-17T08:08:36Z",
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21634
@@ -35,10 +35,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:33:32Z",
+            "last_commit": "2026-08-17T05:07:39Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13752
+            "stars": 13750
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13631
+            "stars": 13632
           }
         },
         {
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:39:57Z",
+            "last_commit": "2026-08-17T00:33:13Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-15T17:00:53Z",
             "owner": "live-codes",
             "repo": "livecodes",
-            "stars": 1483
+            "stars": 1484
           }
         },
         {
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:36:46.696Z",
+    "last_updated": "2026-08-17T11:43:44.621Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
