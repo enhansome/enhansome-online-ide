@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:08:36Z",
+            "last_commit": "2026-08-18T09:51:09Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21634
+            "stars": 21632
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13632
+            "stars": 13633
           }
         },
         {
@@ -147,7 +147,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:33:13Z",
+            "last_commit": "2026-08-18T07:31:04Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -382,7 +382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:43:44.621Z",
+    "last_updated": "2026-08-18T11:43:16.707Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
