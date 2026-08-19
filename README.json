@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Contents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Legend"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T09:51:09Z",
+            "last_commit": "2026-08-19T10:57:39Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21632
+            "stars": 21634
           }
         },
         {
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130879558,
             "language": "TypeScript",
             "last_commit": "2026-08-17T05:07:39Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13750
+            "stars": 13751
           }
         },
         {
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77455983,
             "language": "JavaScript",
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119115406,
             "language": "TypeScript",
             "last_commit": "2022-06-23T22:46:26Z",
             "owner": "wasdk",
@@ -76,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110724756,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T01:55:55Z",
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2579
+            "stars": 2578
           }
         },
         {
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30426019,
             "language": "JavaScript",
             "last_commit": "2021-01-15T08:21:50Z",
             "owner": "c9",
@@ -104,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 55957418,
             "language": "JavaScript",
             "last_commit": "2021-03-02T05:11:35Z",
             "owner": "remix-project-org",
@@ -118,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208612485,
             "language": "JavaScript",
-            "last_commit": "2026-07-20T11:03:09Z",
+            "last_commit": "2026-08-18T20:42:39Z",
             "owner": "Atheos",
             "repo": "Atheos",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -132,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54102761,
             "language": "Java",
             "last_commit": "2018-10-01T13:07:54Z",
             "owner": "codenvy",
@@ -146,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405648384,
             "language": "Python",
             "last_commit": "2026-08-18T07:31:04Z",
             "owner": "newsnowlabs",
@@ -160,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225150418,
             "language": "JavaScript",
             "last_commit": "2025-04-20T03:01:41Z",
             "owner": "88250",
@@ -174,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135073197,
             "language": "JavaScript",
             "last_commit": "2022-12-10T12:52:44Z",
             "owner": "SuperblocksHQ",
@@ -188,24 +190,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 88801958,
             "language": "JavaScript",
             "last_commit": "2020-12-17T13:29:49Z",
             "owner": "expo",
             "repo": "snack-sdk",
             "stars": 84
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Codespaces",
-          "description": "Run any language with VS Code complete with terminal, debugger, GitHub Copilot, version control, settings sync, and extensions.",
-          "children": []
         }
       ],
       "title": "Full IDE"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -214,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46585981,
             "language": "Shell",
             "last_commit": "2021-04-05T05:11:39Z",
             "owner": "TryItOnline",
@@ -228,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95214873,
             "language": "JavaScript",
             "last_commit": "2026-06-05T11:47:06Z",
             "owner": "JetBrains",
@@ -242,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74487588,
             "language": "Scala",
             "last_commit": "2026-08-12T12:49:15Z",
             "owner": "scalacenter",
@@ -256,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77402827,
             "language": "JavaScript",
             "last_commit": "2024-03-20T20:52:50Z",
             "owner": "zzzprojects",
@@ -270,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 128759464,
             "language": "JavaScript",
             "last_commit": "2019-12-08T20:28:05Z",
             "owner": "agentcooper",
@@ -284,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34566792,
             "language": "Haskell",
             "last_commit": "2024-02-19T17:02:30Z",
             "owner": "glotcode",
@@ -298,91 +301,87 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13207943,
             "language": "Racket",
             "last_commit": "2021-09-24T17:48:33Z",
             "owner": "stchang",
             "repo": "pasterack",
             "stars": 31
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JS Bin",
+              "description": "Run snippets in HTML/CSS/JS/TS, provides Codecasting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324747,
+                "language": "JavaScript",
+                "last_commit": "2025-06-23T20:16:10Z",
+                "owner": "jsbin",
+                "repo": "jsbin",
+                "stars": 4421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiveCodes",
+              "description": "Run snippets in 90+ languages/frameworks, including React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and many more. Runs client-side with no backend. Projects can be shared, exported, deployed and embedded. Free AI code assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328283993,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T17:00:53Z",
+                "owner": "live-codes",
+                "repo": "livecodes",
+                "stars": 1484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flems",
+              "description": "Run snippets in HTML/CSS/JS without a connection to the server (after page load).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104206646,
+                "language": "JavaScript",
+                "last_commit": "2023-11-03T06:47:23Z",
+                "owner": "porsager",
+                "repo": "flems",
+                "stars": 538
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Popcode",
+              "description": "Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39417599,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T03:28:49Z",
+                "owner": "popcodeorg",
+                "repo": "popcode",
+                "stars": 191
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web Snippets"
         }
       ],
       "title": "Snippets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JS Bin",
-          "description": "Run snippets in HTML/CSS/JS/TS, provides Codecasting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-06-23T20:16:10Z",
-            "owner": "jsbin",
-            "repo": "jsbin",
-            "stars": 4421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LiveCodes",
-          "description": "Run snippets in 90+ languages/frameworks, including React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and many more. Runs client-side with no backend. Projects can be shared, exported, deployed and embedded. Free AI code assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T17:00:53Z",
-            "owner": "live-codes",
-            "repo": "livecodes",
-            "stars": 1484
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flems",
-          "description": "Run snippets in HTML/CSS/JS without a connection to the server (after page load).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-03T06:47:23Z",
-            "owner": "porsager",
-            "repo": "flems",
-            "stars": 538
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Popcode",
-          "description": "Run snippets in HTML/CSS/JS for use in the classroom, with student-friendly error messages and offline editing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T03:28:49Z",
-            "owner": "popcodeorg",
-            "repo": "popcode",
-            "stars": 191
-          }
-        }
-      ],
-      "title": "Web Snippets"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines and code of conduct first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, styfle has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:43:16.707Z",
+    "last_updated": "2026-08-19T11:43:23.415Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
