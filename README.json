@@ -12,10 +12,10 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:55:23Z",
+            "last_commit": "2026-08-20T09:17:35Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21634
+            "stars": 21635
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T05:07:39Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13751
+            "stars": 13754
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 405648384,
             "language": "Python",
-            "last_commit": "2026-08-18T07:31:04Z",
+            "last_commit": "2026-08-19T22:44:37Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -335,7 +335,7 @@
                 "archived": false,
                 "id": 328283993,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T17:00:53Z",
+                "last_commit": "2026-08-20T01:13:00Z",
                 "owner": "live-codes",
                 "repo": "livecodes",
                 "stars": 1484
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:47.204Z",
+    "last_updated": "2026-08-20T11:45:26.457Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_id": 101212460,
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
