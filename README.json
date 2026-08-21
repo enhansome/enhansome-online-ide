@@ -12,10 +12,10 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T09:17:35Z",
+            "last_commit": "2026-08-21T11:43:54Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21635
+            "stars": 21640
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13633
+            "stars": 13635
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-15T01:55:55Z",
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2578
+            "stars": 2580
           }
         },
         {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-20T01:13:00Z",
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1484
+                "stars": 1485
               }
             },
             {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:45:26.457Z",
+    "last_updated": "2026-08-21T11:44:45.581Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_id": 101212460,
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
