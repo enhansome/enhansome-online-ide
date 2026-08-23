@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T20:01:19Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21642
+            "stars": 21645
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T05:07:39Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13754
+            "stars": 13755
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 225150418,
             "language": "JavaScript",
-            "last_commit": "2025-04-20T03:01:41Z",
+            "last_commit": "2026-08-22T13:29:32Z",
             "owner": "88250",
             "repo": "wide",
             "stars": 120
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:38:27.917Z",
+    "last_updated": "2026-08-23T11:38:09.789Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_id": 101212460,
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
