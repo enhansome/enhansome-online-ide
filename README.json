@@ -12,7 +12,7 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:40:29Z",
+            "last_commit": "2026-08-24T12:42:48Z",
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21649
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:45:41.487Z",
+    "last_updated": "2026-08-24T13:59:49.290Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_id": 101212460,
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
