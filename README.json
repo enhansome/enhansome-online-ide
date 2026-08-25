@@ -12,10 +12,10 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:42:48Z",
+            "last_commit": "2026-08-25T00:22:09Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21649
+            "stars": 21653
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T10:26:09Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13755
+            "stars": 13756
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 77455983,
             "language": "JavaScript",
-            "last_commit": "2026-07-15T11:28:12Z",
+            "last_commit": "2026-08-24T19:32:07Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13637
+            "stars": 13638
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 405648384,
             "language": "Python",
-            "last_commit": "2026-08-23T23:45:07Z",
+            "last_commit": "2026-08-24T17:13:51Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-20T01:13:00Z",
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1485
+                "stars": 1486
               }
             },
             {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:49.290Z",
+    "last_updated": "2026-08-25T05:56:42.424Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_id": 101212460,
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
