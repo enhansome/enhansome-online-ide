@@ -12,7 +12,7 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:22:09Z",
+            "last_commit": "2026-08-25T09:32:59Z",
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21653
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T10:26:09Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13756
+            "stars": 13755
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 77455983,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T19:32:07Z",
+            "last_commit": "2026-08-25T11:07:54Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
             "stars": 13638
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:42.424Z",
+    "last_updated": "2026-08-25T11:46:38.830Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_id": 101212460,
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
