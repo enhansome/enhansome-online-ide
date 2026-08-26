@@ -12,10 +12,10 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:32:59Z",
+            "last_commit": "2026-08-26T11:44:07Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21653
+            "stars": 21656
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 77455983,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T11:07:54Z",
+            "last_commit": "2026-08-25T13:13:18Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13638
+            "stars": 13637
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 110724756,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-15T01:55:55Z",
+            "last_commit": "2026-08-26T01:38:12Z",
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2580
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-18T20:42:39Z",
             "owner": "Atheos",
             "repo": "Atheos",
-            "stars": 678
+            "stars": 677
           }
         },
         {
@@ -335,10 +335,10 @@
                 "archived": false,
                 "id": 328283993,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T01:13:00Z",
+                "last_commit": "2026-08-25T12:35:22Z",
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1486
+                "stars": 1487
               }
             },
             {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:46:38.830Z",
+    "last_updated": "2026-08-26T11:47:42.465Z",
     "original_repository": "styfle/awesome-online-ide",
     "original_repository_id": 101212460,
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
