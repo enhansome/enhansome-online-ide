@@ -12,7 +12,7 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:39:09Z",
+            "last_commit": "2026-08-27T14:49:41Z",
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21658
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T10:26:09Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13756
+            "stars": 13759
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 405648384,
             "language": "Python",
-            "last_commit": "2026-08-24T17:13:51Z",
+            "last_commit": "2026-08-27T20:25:19Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
@@ -335,7 +335,7 @@
                 "archived": false,
                 "id": 328283993,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:35:22Z",
+                "last_commit": "2026-08-27T16:25:07Z",
                 "owner": "live-codes",
                 "repo": "livecodes",
                 "stars": 1487
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 39417599,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T07:44:23Z",
+                "last_commit": "2026-08-27T19:41:50Z",
                 "owner": "popcodeorg",
                 "repo": "popcode",
                 "stars": 191
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:28.183Z",
+    "last_updated": "2026-08-27T21:02:57.658Z",
     "original_repository_info": {
       "archived": false,
       "id": 101212460,
