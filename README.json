@@ -12,10 +12,10 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T11:44:07Z",
+            "last_commit": "2026-08-27T10:39:09Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21656
+            "stars": 21658
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T10:26:09Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13755
+            "stars": 13756
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T13:13:18Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13637
+            "stars": 13638
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 110724756,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T01:38:12Z",
+            "last_commit": "2026-08-26T19:52:52Z",
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2580
@@ -365,7 +365,7 @@
                 "archived": false,
                 "id": 39417599,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T03:28:49Z",
+                "last_commit": "2026-08-27T07:44:23Z",
                 "owner": "popcodeorg",
                 "repo": "popcode",
                 "stars": 191
@@ -381,9 +381,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:47:42.465Z",
-    "original_repository": "styfle/awesome-online-ide",
-    "original_repository_id": 101212460,
+    "last_updated": "2026-08-27T11:53:28.183Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 101212460,
+      "language": null,
+      "last_commit": "2024-12-03T22:54:05Z",
+      "owner": "styfle",
+      "repo": "awesome-online-ide",
+      "stars": 3522
+    },
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
     "enhanced_repository_description": null,
