@@ -12,11 +12,12 @@
             "archived": false,
             "id": 83050680,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:49:41Z",
+            "last_commit": "2026-08-28T17:08:16Z",
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21658
-          }
+            "stars": 21661
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T10:26:09Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13759
-          }
+            "stars": 13760
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "codesandbox",
             "repo": "codesandbox-client",
             "stars": 13638
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "wasdk",
             "repo": "WebAssemblyStudio",
             "stars": 2938
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2580
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "c9",
             "repo": "core",
             "stars": 2539
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "remix-project-org",
             "repo": "remix",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Atheos",
             "repo": "Atheos",
             "stars": 677
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "codenvy",
             "repo": "codenvy",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 405648384,
             "language": "Python",
-            "last_commit": "2026-08-27T20:25:19Z",
+            "last_commit": "2026-08-28T17:26:04Z",
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "88250",
             "repo": "wide",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "SuperblocksHQ",
             "repo": "superblocks-lab",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "expo",
             "repo": "snack-sdk",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         }
       ],
       "title": "Full IDE"
@@ -217,7 +230,8 @@
             "owner": "TryItOnline",
             "repo": "tryitonline",
             "stars": 562
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "JetBrains",
             "repo": "kotlin-playground",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "scalacenter",
             "repo": "scastie",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "zzzprojects",
             "repo": "sqlfiddle3",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "agentcooper",
             "repo": "typescript-play",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "glotcode",
             "repo": "glot-www",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "stchang",
             "repo": "pasterack",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:26:40.771Z"
         },
         {
           "children": [
@@ -324,7 +344,8 @@
                 "owner": "jsbin",
                 "repo": "jsbin",
                 "stars": 4421
-              }
+              },
+              "first_seen": "2026-08-28T21:26:40.771Z"
             },
             {
               "node_type": "item",
@@ -338,8 +359,9 @@
                 "last_commit": "2026-08-27T16:25:07Z",
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1487
-              }
+                "stars": 1488
+              },
+              "first_seen": "2026-08-28T21:26:40.771Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "porsager",
                 "repo": "flems",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T21:26:40.771Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "popcodeorg",
                 "repo": "popcode",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T21:26:40.771Z"
             }
           ],
           "description": null,
@@ -381,7 +405,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:02:57.658Z",
+    "last_updated": "2026-08-28T21:26:40.771Z",
     "original_repository_info": {
       "archived": false,
       "id": 101212460,
