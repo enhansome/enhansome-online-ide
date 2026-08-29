@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+            "homepage": "http://theia-ide.org",
             "id": 83050680,
             "language": "TypeScript",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-28T17:08:16Z",
+            "open_issues": 1493,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21661
+            "stars": 21662,
+            "topics": [
+              "cloud-ide",
+              "editor",
+              "electron",
+              "ide",
+              "language-server-protocol",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -26,12 +38,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The developer platform for on-demand cloud development environments to create software faster and more securely.",
+            "homepage": "https://www.gitpod.io",
             "id": 130879558,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T10:26:09Z",
+            "open_issues": 451,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13760
+            "stars": 13760,
+            "topics": [
+              "cde",
+              "cloud",
+              "cloud-development",
+              "cloud-development-environments",
+              "cloud-ide",
+              "code-review",
+              "dev-environment",
+              "developer-environment",
+              "developer-experience",
+              "disposable",
+              "editor",
+              "ephemeral",
+              "gitpod",
+              "ide",
+              "jetbrains",
+              "prebuilds",
+              "remote-development",
+              "remote-devtools",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -42,12 +79,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An online IDE for rapid web development",
+            "homepage": "https://codesandbox.io",
             "id": 77455983,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T13:13:18Z",
+            "open_issues": 613,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13638
+            "stars": 13638,
+            "topics": [
+              "angular",
+              "codesandbox",
+              "javascript",
+              "preact",
+              "react",
+              "svelte",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -58,12 +108,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Learn, Teach, Work and Play in the WebAssembly Studio",
+            "homepage": "http://webassembly.studio",
             "id": 119115406,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-06-23T22:46:26Z",
+            "open_issues": 127,
             "owner": "wasdk",
             "repo": "WebAssemblyStudio",
-            "stars": 2938
+            "stars": 2938,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -74,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python libraries for Google Colaboratory",
+            "homepage": null,
             "id": 110724756,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T19:52:52Z",
+            "open_issues": 863,
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2580
+            "stars": 2580,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -90,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cloud9 Core - Part of the Cloud9 SDK for Plugin Development https://c9.github.io/core/ https://c9.io",
+            "homepage": null,
             "id": 30426019,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2021-01-15T08:21:50Z",
+            "open_issues": 180,
             "owner": "c9",
             "repo": "core",
-            "stars": 2539
+            "stars": 2539,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -106,12 +171,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This has been moved to https://github.com/ethereum/remix-project",
+            "homepage": null,
             "id": 55957418,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-02T05:11:35Z",
+            "open_issues": 22,
             "owner": "remix-project-org",
             "repo": "remix",
-            "stars": 1168
+            "stars": 1168,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "evm",
+              "remix",
+              "remix-ide",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -122,12 +200,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-hosted browser-based cloud IDE, updated from Codiad IDE",
+            "homepage": "https://www.atheos.io/",
             "id": 208612485,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-18T20:42:39Z",
+            "open_issues": 22,
             "owner": "Atheos",
             "repo": "Atheos",
-            "stars": 677
+            "stars": 677,
+            "topics": [
+              "cloud-ide",
+              "editor",
+              "hacktoberfest",
+              "ide",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -138,12 +227,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codenvy",
+            "homepage": null,
             "id": 54102761,
             "language": "Java",
+            "license": "EPL-1.0",
             "last_commit": "2018-10-01T13:07:54Z",
+            "open_issues": 235,
             "owner": "codenvy",
             "repo": "codenvy",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "cloud",
+              "codenvy",
+              "docker",
+              "eclipse-che",
+              "ide",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -154,12 +255,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create dev containers that mirror your prod environment and sandbox your Claude/Codex CLIs. Develop with VS Code/Jet Brains, via SSH with e.g. Vim or VS Code in your browser. Unlimited staging for co-workers and clients. Dockside is an open source 'Codespaces' that runs on local machine, on prem, or in cloud",
+            "homepage": "https://dockside.io/",
             "id": 405648384,
             "language": "Python",
-            "last_commit": "2026-08-28T17:26:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:34:37Z",
+            "open_issues": 12,
             "owner": "newsnowlabs",
             "repo": "dockside",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "cloud-ide",
+              "code-editor",
+              "coding",
+              "docker",
+              "docker-ide",
+              "ide",
+              "online-ide",
+              "web-ide"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -170,12 +285,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌈 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang。",
+            "homepage": "https://wide.b3log.org",
             "id": 225150418,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T13:29:32Z",
+            "open_issues": 2,
             "owner": "88250",
             "repo": "wide",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "golang",
+              "ide",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -186,12 +310,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Superblocks Lab for DApp development",
+            "homepage": "https://superblocks.com/lab/",
             "id": 135073197,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-10T12:52:44Z",
+            "open_issues": 121,
             "owner": "SuperblocksHQ",
             "repo": "superblocks-lab",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "blockchain",
+              "editor",
+              "ethereum",
+              "ethereum-ide",
+              "ide",
+              "superblocks",
+              "superblocks-lab"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -202,12 +339,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Snack SDK",
+            "homepage": null,
             "id": 88801958,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-17T13:29:49Z",
+            "open_issues": 0,
             "owner": "expo",
             "repo": "snack-sdk",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "snack"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         }
@@ -224,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Try It Online family of online interpreters.",
+            "homepage": "https://tryitonline.net",
             "id": 46585981,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-04-05T05:11:39Z",
+            "open_issues": 32,
             "owner": "TryItOnline",
             "repo": "tryitonline",
-            "stars": 562
+            "stars": 562,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -240,12 +389,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-contained component to embed in websites for running Kotlin code",
+            "homepage": "https://jetbrains.github.io/kotlin-playground/examples/",
             "id": 95214873,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-05T11:47:06Z",
+            "open_issues": 62,
             "owner": "JetBrains",
             "repo": "kotlin-playground",
-            "stars": 489
+            "stars": 489,
+            "topics": [
+              "kotlin",
+              "kotlin-playground",
+              "playground"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -256,12 +414,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive playground for Scala",
+            "homepage": "https://scastie.scala-lang.org",
             "id": 74487588,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T12:49:15Z",
+            "open_issues": 124,
             "owner": "scalacenter",
             "repo": "scastie",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "online-repl",
+              "sbt"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -272,12 +438,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "New version based on vert.x and docker",
+            "homepage": "https://sqlfiddle.com/",
             "id": 77402827,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-20T20:52:50Z",
+            "open_issues": 11,
             "owner": "zzzprojects",
             "repo": "sqlfiddle3",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "database",
+              "database-services",
+              "docker",
+              "groovy",
+              "javascript",
+              "jmeter",
+              "kubernetes",
+              "mysql",
+              "oracle",
+              "postgresql",
+              "saas",
+              "sql-server",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -288,12 +473,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Better TypeScript playground",
+            "homepage": "https://typescript-play.js.org",
             "id": 128759464,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-12-08T20:28:05Z",
+            "open_issues": 18,
             "owner": "agentcooper",
             "repo": "typescript-play",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "playground",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -304,12 +497,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "glot.io website",
+            "homepage": "https://glot.io/",
             "id": 34566792,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2024-02-19T17:02:30Z",
+            "open_issues": 9,
             "owner": "glotcode",
             "repo": "glot-www",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -320,12 +518,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Racket pastebin.",
+            "homepage": null,
             "id": 13207943,
             "language": "Racket",
+            "license": null,
             "last_commit": "2021-09-24T17:48:33Z",
+            "open_issues": 25,
             "owner": "stchang",
             "repo": "pasterack",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "racket"
+            ]
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
         },
@@ -338,12 +543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collaborative JavaScript Debugging App",
+                "homepage": "http://jsbin.com",
                 "id": 324747,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-06-23T20:16:10Z",
+                "open_issues": 100,
                 "owner": "jsbin",
                 "repo": "jsbin",
-                "stars": 4421
+                "stars": 4421,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
             },
@@ -354,12 +564,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Code Playground That Just Works!",
+                "homepage": "https://livecodes.io",
                 "id": 328283993,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:25:07Z",
+                "open_issues": 31,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1488
+                "stars": 1488,
+                "topics": [
+                  "code",
+                  "editor",
+                  "hacktoberfest",
+                  "javascript",
+                  "live",
+                  "livecodes",
+                  "monaco-editor",
+                  "playground",
+                  "prettier",
+                  "programming-languages",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
             },
@@ -370,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single file web playground and sandbox",
+                "homepage": null,
                 "id": 104206646,
                 "language": "JavaScript",
+                "license": "WTFPL",
                 "last_commit": "2023-11-03T06:47:23Z",
+                "open_issues": 28,
                 "owner": "porsager",
                 "repo": "flems",
-                "stars": 538
+                "stars": 538,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
             },
@@ -386,12 +618,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTML/CSS/JavaScript editor for use in the classroom",
+                "homepage": null,
                 "id": 39417599,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:41:50Z",
+                "open_issues": 164,
                 "owner": "popcodeorg",
                 "repo": "popcode",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "classroom",
+                  "editor",
+                  "education",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
             }
@@ -405,15 +647,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:26:40.771Z",
+    "last_updated": "2026-08-29T04:20:39.887Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌩️ A list of awesome online development environments",
+      "homepage": "https://styfle.dev/projects/awesome-online-ide",
       "id": 101212460,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2024-12-03T22:54:05Z",
+      "open_issues": 11,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3522
+      "stars": 3521,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ide",
+        "list",
+        "lists"
+      ]
     },
     "original_repository_sha": "da5065e0a331014d778b5e59c9a56534332319cd",
     "enhanced_repository": "enhansome/enhansome-online-ide",
