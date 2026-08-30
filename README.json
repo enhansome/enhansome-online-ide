@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "EPL-2.0",
             "last_commit": "2026-08-28T17:08:16Z",
-            "open_issues": 1494,
+            "open_issues": 1496,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21662,
+            "stars": 21660,
             "topics": [
               "cloud-ide",
               "editor",
@@ -88,7 +88,7 @@
             "open_issues": 613,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13638,
+            "stars": 13639,
             "topics": [
               "angular",
               "codesandbox",
@@ -260,8 +260,8 @@
             "id": 405648384,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:34:37Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-30T11:37:58Z",
+            "open_issues": 13,
             "owner": "newsnowlabs",
             "repo": "dockside",
             "stars": 322,
@@ -552,7 +552,7 @@
                 "open_issues": 100,
                 "owner": "jsbin",
                 "repo": "jsbin",
-                "stars": 4421,
+                "stars": 4419,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:39:27.755Z",
+    "last_updated": "2026-08-30T15:21:29.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -659,7 +659,7 @@
       "open_issues": 11,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3521,
+      "stars": 3522,
       "topics": [
         "awesome",
         "awesome-list",
