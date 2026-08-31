@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-08-28T17:08:16Z",
-            "open_issues": 1496,
+            "last_commit": "2026-08-31T00:37:47Z",
+            "open_issues": 1501,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21660,
+            "stars": 21665,
             "topics": [
               "cloud-ide",
               "editor",
@@ -43,11 +43,11 @@
             "id": 130879558,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-24T10:26:09Z",
-            "open_issues": 451,
+            "last_commit": "2026-08-31T05:04:31Z",
+            "open_issues": 452,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13759,
+            "stars": 13760,
             "topics": [
               "cde",
               "cloud",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:21:29.236Z",
+    "last_updated": "2026-08-31T18:01:15.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -659,7 +659,7 @@
       "open_issues": 11,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3522,
+      "stars": 3523,
       "topics": [
         "awesome",
         "awesome-list",
