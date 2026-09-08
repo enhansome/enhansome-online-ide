@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-09-07T13:01:26Z",
+            "last_commit": "2026-09-08T14:12:51Z",
             "open_issues": 1504,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21674,
+            "stars": 21675,
             "topics": [
               "cloud-ide",
               "editor",
@@ -88,7 +88,7 @@
             "open_issues": 615,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13641,
+            "stars": 13640,
             "topics": [
               "angular",
               "codesandbox",
@@ -117,7 +117,7 @@
             "open_issues": 127,
             "owner": "wasdk",
             "repo": "WebAssemblyStudio",
-            "stars": 2934,
+            "stars": 2933,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -138,7 +138,7 @@
             "open_issues": 867,
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2580,
+            "stars": 2581,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -260,7 +260,7 @@
             "id": 405648384,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T17:35:05Z",
+            "last_commit": "2026-09-07T22:50:32Z",
             "open_issues": 13,
             "owner": "newsnowlabs",
             "repo": "dockside",
@@ -549,7 +549,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2025-06-23T20:16:10Z",
-                "open_issues": 101,
+                "open_issues": 100,
                 "owner": "jsbin",
                 "repo": "jsbin",
                 "stars": 4418,
@@ -569,11 +569,11 @@
                 "id": 328283993,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T00:10:35Z",
+                "last_commit": "2026-09-07T23:47:22Z",
                 "open_issues": 29,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1489,
+                "stars": 1490,
                 "topics": [
                   "code",
                   "editor",
@@ -623,7 +623,7 @@
                 "id": 39417599,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T02:18:23Z",
+                "last_commit": "2026-09-07T17:59:18Z",
                 "open_issues": 164,
                 "owner": "popcodeorg",
                 "repo": "popcode",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:29:52.828Z",
+    "last_updated": "2026-09-08T15:09:21.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
