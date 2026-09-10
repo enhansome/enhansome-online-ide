@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-09-09T14:52:51Z",
-            "open_issues": 1501,
+            "last_commit": "2026-09-10T09:57:49Z",
+            "open_issues": 1506,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21676,
+            "stars": 21681,
             "topics": [
               "cloud-ide",
               "editor",
@@ -47,7 +47,7 @@
             "open_issues": 451,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13766,
+            "stars": 13768,
             "topics": [
               "cde",
               "cloud",
@@ -88,7 +88,7 @@
             "open_issues": 615,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13639,
+            "stars": 13638,
             "topics": [
               "angular",
               "codesandbox",
@@ -206,7 +206,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-08-18T20:42:39Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "Atheos",
             "repo": "Atheos",
             "stars": 676,
@@ -447,7 +447,7 @@
             "open_issues": 11,
             "owner": "zzzprojects",
             "repo": "sqlfiddle3",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "database",
               "database-services",
@@ -569,11 +569,11 @@
                 "id": 328283993,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T23:47:22Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-10T14:42:56Z",
+                "open_issues": 28,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1492,
+                "stars": 1491,
                 "topics": [
                   "code",
                   "editor",
@@ -623,7 +623,7 @@
                 "id": 39417599,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-08T22:52:02Z",
+                "last_commit": "2026-09-09T22:04:45Z",
                 "open_issues": 164,
                 "owner": "popcodeorg",
                 "repo": "popcode",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T15:08:33.562Z",
+    "last_updated": "2026-09-10T15:00:05.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -659,7 +659,7 @@
       "open_issues": 11,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3526,
+      "stars": 3525,
       "topics": [
         "awesome",
         "awesome-list",
