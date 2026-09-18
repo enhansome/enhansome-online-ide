@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-09-17T12:51:24Z",
-            "open_issues": 1511,
+            "last_commit": "2026-09-18T00:34:16Z",
+            "open_issues": 1512,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21691,
+            "stars": 21692,
             "topics": [
               "cloud-ide",
               "editor",
@@ -43,11 +43,11 @@
             "id": 130879558,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-15T23:21:59Z",
+            "last_commit": "2026-09-18T12:13:46Z",
             "open_issues": 450,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13772,
+            "stars": 13771,
             "topics": [
               "cde",
               "cloud",
@@ -88,7 +88,7 @@
             "open_issues": 615,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13644,
+            "stars": 13645,
             "topics": [
               "angular",
               "codesandbox",
@@ -134,11 +134,11 @@
             "id": 110724756,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T22:28:42Z",
-            "open_issues": 872,
+            "last_commit": "2026-09-17T19:07:11Z",
+            "open_issues": 873,
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2582,
+            "stars": 2583,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -569,11 +569,11 @@
                 "id": 328283993,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T22:35:25Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-18T13:15:21Z",
+                "open_issues": 25,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1496,
+                "stars": 1497,
                 "topics": [
                   "code",
                   "editor",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:33:34.995Z",
+    "last_updated": "2026-09-18T15:00:37.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -659,7 +659,7 @@
       "open_issues": 11,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3529,
+      "stars": 3530,
       "topics": [
         "awesome",
         "awesome-list",
