@@ -15,8 +15,8 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-09-25T15:49:24Z",
-            "open_issues": 1514,
+            "last_commit": "2026-09-25T16:38:48Z",
+            "open_issues": 1516,
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21701,
@@ -573,7 +573,7 @@
                 "open_issues": 24,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1505,
+                "stars": 1507,
                 "topics": [
                   "code",
                   "editor",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:50:17.905Z",
+    "last_updated": "2026-09-26T14:59:02.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
