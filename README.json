@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-09-28T16:00:03Z",
+            "last_commit": "2026-09-29T16:32:12Z",
             "open_issues": 1517,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21703,
+            "stars": 21707,
             "topics": [
               "cloud-ide",
               "editor",
@@ -43,7 +43,7 @@
             "id": 130879558,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T15:32:25Z",
+            "last_commit": "2026-09-29T15:11:35Z",
             "open_issues": 450,
             "owner": "gitpod-io",
             "repo": "gitpod",
@@ -134,8 +134,8 @@
             "id": 110724756,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T17:35:54Z",
-            "open_issues": 882,
+            "last_commit": "2026-09-29T16:19:44Z",
+            "open_issues": 881,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2586,
@@ -206,7 +206,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-08-18T20:42:39Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "Atheos",
             "repo": "Atheos",
             "stars": 677,
@@ -552,7 +552,7 @@
                 "open_issues": 100,
                 "owner": "jsbin",
                 "repo": "jsbin",
-                "stars": 4419,
+                "stars": 4420,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:37:02.826Z",
+    "last_updated": "2026-09-29T16:54:20.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -659,7 +659,7 @@
       "open_issues": 11,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3531,
+      "stars": 3532,
       "topics": [
         "awesome",
         "awesome-list",
