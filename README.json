@@ -15,8 +15,8 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-02T23:39:51Z",
-            "open_issues": 1521,
+            "last_commit": "2026-10-03T11:57:57Z",
+            "open_issues": 1520,
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21705,
@@ -47,7 +47,7 @@
             "open_issues": 449,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13781,
+            "stars": 13782,
             "topics": [
               "cde",
               "cloud",
@@ -569,7 +569,7 @@
                 "id": 328283993,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T04:35:42Z",
+                "last_commit": "2026-10-03T14:37:26Z",
                 "open_issues": 24,
                 "owner": "live-codes",
                 "repo": "livecodes",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:58:23.402Z",
+    "last_updated": "2026-10-03T15:09:16.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
