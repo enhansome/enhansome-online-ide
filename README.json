@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "EPL-2.0",
             "last_commit": "2026-10-16T20:56:47Z",
-            "open_issues": 1481,
+            "open_issues": 1483,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21708,
+            "stars": 21709,
             "topics": [
               "cloud-ide",
               "editor",
@@ -85,10 +85,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-07T12:25:35Z",
-            "open_issues": 614,
+            "open_issues": 613,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13651,
+            "stars": 13650,
             "topics": [
               "angular",
               "codesandbox",
@@ -423,7 +423,7 @@
             "open_issues": 125,
             "owner": "scalacenter",
             "repo": "scastie",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "online-repl",
               "sbt"
@@ -569,11 +569,11 @@
                 "id": 328283993,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:57:46Z",
+                "last_commit": "2026-10-17T21:07:34Z",
                 "open_issues": 24,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1523,
+                "stars": 1522,
                 "topics": [
                   "code",
                   "editor",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:13:49.327Z",
+    "last_updated": "2026-10-18T14:37:45.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
