@@ -15,8 +15,8 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-22T14:50:30Z",
-            "open_issues": 1528,
+            "last_commit": "2026-10-23T10:56:27Z",
+            "open_issues": 1525,
             "owner": "eclipse-theia",
             "repo": "theia",
             "stars": 21718,
@@ -47,7 +47,7 @@
             "open_issues": 449,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13805,
+            "stars": 13806,
             "topics": [
               "cde",
               "cloud",
@@ -135,7 +135,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T08:35:48Z",
-            "open_issues": 897,
+            "open_issues": 895,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2593,
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:53:51.479Z",
+    "last_updated": "2026-10-23T15:45:48.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
