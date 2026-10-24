@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "EPL-2.0",
             "last_commit": "2026-10-23T10:56:27Z",
-            "open_issues": 1525,
+            "open_issues": 1527,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21718,
+            "stars": 21717,
             "topics": [
               "cloud-ide",
               "editor",
@@ -47,7 +47,7 @@
             "open_issues": 449,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13806,
+            "stars": 13804,
             "topics": [
               "cde",
               "cloud",
@@ -135,7 +135,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T08:35:48Z",
-            "open_issues": 895,
+            "open_issues": 897,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2593,
@@ -552,7 +552,7 @@
                 "open_issues": 100,
                 "owner": "jsbin",
                 "repo": "jsbin",
-                "stars": 4423,
+                "stars": 4422,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
@@ -569,7 +569,7 @@
                 "id": 328283993,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T08:16:07Z",
+                "last_commit": "2026-10-24T13:30:18Z",
                 "open_issues": 25,
                 "owner": "live-codes",
                 "repo": "livecodes",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:45:48.016Z",
+    "last_updated": "2026-10-24T14:35:40.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -656,7 +656,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2024-12-03T22:54:05Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "styfle",
       "repo": "awesome-online-ide",
       "stars": 3536,
