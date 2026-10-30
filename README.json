@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-29T17:04:36Z",
-            "open_issues": 1529,
+            "last_commit": "2026-10-30T15:51:23Z",
+            "open_issues": 1530,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21726,
+            "stars": 21729,
             "topics": [
               "cloud-ide",
               "editor",
@@ -47,7 +47,7 @@
             "open_issues": 449,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13803,
+            "stars": 13806,
             "topics": [
               "cde",
               "cloud",
@@ -88,7 +88,7 @@
             "open_issues": 614,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13654,
+            "stars": 13656,
             "topics": [
               "angular",
               "codesandbox",
@@ -135,7 +135,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T21:56:24Z",
-            "open_issues": 899,
+            "open_issues": 894,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2592,
@@ -264,7 +264,7 @@
             "open_issues": 14,
             "owner": "newsnowlabs",
             "repo": "dockside",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "cloud-ide",
               "code-editor",
@@ -447,7 +447,7 @@
             "open_issues": 11,
             "owner": "zzzprojects",
             "repo": "sqlfiddle3",
-            "stars": 340,
+            "stars": 339,
             "topics": [
               "database",
               "database-services",
@@ -573,7 +573,7 @@
                 "open_issues": 25,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1523,
+                "stars": 1524,
                 "topics": [
                   "code",
                   "editor",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:26:56.889Z",
+    "last_updated": "2026-10-30T17:01:46.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
