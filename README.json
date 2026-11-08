@@ -43,11 +43,11 @@
             "id": 130879558,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T16:46:52Z",
-            "open_issues": 449,
+            "last_commit": "2026-11-08T02:09:37Z",
+            "open_issues": 450,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13800,
+            "stars": 13798,
             "topics": [
               "cde",
               "cloud",
@@ -88,7 +88,7 @@
             "open_issues": 614,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13661,
+            "stars": 13660,
             "topics": [
               "angular",
               "codesandbox",
@@ -135,7 +135,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T21:26:10Z",
-            "open_issues": 900,
+            "open_issues": 905,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2593,
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:51:44.870Z",
+    "last_updated": "2026-11-08T17:05:13.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
