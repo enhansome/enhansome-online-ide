@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-09T10:16:20Z",
-            "open_issues": 1507,
+            "last_commit": "2026-11-10T15:35:26Z",
+            "open_issues": 1523,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21745,
+            "stars": 21750,
             "topics": [
               "cloud-ide",
               "editor",
@@ -43,11 +43,11 @@
             "id": 130879558,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T05:05:41Z",
-            "open_issues": 451,
+            "last_commit": "2026-11-10T16:37:48Z",
+            "open_issues": 448,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13799,
+            "stars": 13800,
             "topics": [
               "cde",
               "cloud",
@@ -88,7 +88,7 @@
             "open_issues": 613,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13660,
+            "stars": 13661,
             "topics": [
               "angular",
               "codesandbox",
@@ -135,10 +135,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T21:26:10Z",
-            "open_issues": 908,
+            "open_issues": 912,
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2595,
+            "stars": 2596,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -264,7 +264,7 @@
             "open_issues": 16,
             "owner": "newsnowlabs",
             "repo": "dockside",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "cloud-ide",
               "code-editor",
@@ -419,11 +419,11 @@
             "id": 74487588,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:25:21Z",
+            "last_commit": "2026-11-10T15:58:07Z",
             "open_issues": 122,
             "owner": "scalacenter",
             "repo": "scastie",
-            "stars": 441,
+            "stars": 440,
             "topics": [
               "online-repl",
               "sbt"
@@ -447,7 +447,7 @@
             "open_issues": 11,
             "owner": "zzzprojects",
             "repo": "sqlfiddle3",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "database",
               "database-services",
@@ -647,7 +647,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:28:01.547Z",
+    "last_updated": "2026-11-10T18:41:31.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
