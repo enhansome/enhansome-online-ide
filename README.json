@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-18T17:02:27Z",
-            "open_issues": 1516,
+            "last_commit": "2026-11-19T17:39:56Z",
+            "open_issues": 1520,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21768,
+            "stars": 21774,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -57,7 +57,7 @@
             "open_issues": 448,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13800,
+            "stars": 13797,
             "topics": [
               "cde",
               "cloud",
@@ -98,7 +98,7 @@
             "open_issues": 616,
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13661,
+            "stars": 13662,
             "topics": [
               "angular",
               "codesandbox",
@@ -145,7 +145,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T21:26:10Z",
-            "open_issues": 927,
+            "open_issues": 932,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2599,
@@ -169,7 +169,7 @@
             "open_issues": 179,
             "owner": "c9",
             "repo": "core",
-            "stars": 2532,
+            "stars": 2531,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -408,7 +408,7 @@
             "open_issues": 66,
             "owner": "JetBrains",
             "repo": "kotlin-playground",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "kotlin",
               "kotlin-playground",
@@ -429,8 +429,8 @@
             "id": 74487588,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T15:28:03Z",
-            "open_issues": 123,
+            "last_commit": "2026-11-19T11:48:23Z",
+            "open_issues": 122,
             "owner": "scalacenter",
             "repo": "scastie",
             "stars": 440,
@@ -562,7 +562,7 @@
                 "open_issues": 101,
                 "owner": "jsbin",
                 "repo": "jsbin",
-                "stars": 4423,
+                "stars": 4422,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:40.771Z"
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:25:12.482Z",
+    "last_updated": "2026-11-19T19:29:55.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
