@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-19T17:39:56Z",
-            "open_issues": 1520,
+            "last_commit": "2026-11-20T15:20:39Z",
+            "open_issues": 1517,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21774,
+            "stars": 21779,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -127,7 +127,7 @@
             "open_issues": 127,
             "owner": "wasdk",
             "repo": "WebAssemblyStudio",
-            "stars": 2933,
+            "stars": 2932,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -144,8 +144,8 @@
             "id": 110724756,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T21:26:10Z",
-            "open_issues": 932,
+            "last_commit": "2026-11-20T04:56:34Z",
+            "open_issues": 934,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2599,
@@ -169,7 +169,7 @@
             "open_issues": 179,
             "owner": "c9",
             "repo": "core",
-            "stars": 2531,
+            "stars": 2530,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -219,7 +219,7 @@
             "open_issues": 24,
             "owner": "Atheos",
             "repo": "Atheos",
-            "stars": 682,
+            "stars": 681,
             "topics": [
               "cloud-ide",
               "editor",
@@ -246,7 +246,7 @@
             "open_issues": 234,
             "owner": "codenvy",
             "repo": "codenvy",
-            "stars": 336,
+            "stars": 335,
             "topics": [
               "cloud",
               "codenvy",
@@ -274,7 +274,7 @@
             "open_issues": 16,
             "owner": "newsnowlabs",
             "repo": "dockside",
-            "stars": 324,
+            "stars": 323,
             "topics": [
               "cloud-ide",
               "code-editor",
@@ -408,7 +408,7 @@
             "open_issues": 66,
             "owner": "JetBrains",
             "repo": "kotlin-playground",
-            "stars": 495,
+            "stars": 494,
             "topics": [
               "kotlin",
               "kotlin-playground",
@@ -457,7 +457,7 @@
             "open_issues": 11,
             "owner": "zzzprojects",
             "repo": "sqlfiddle3",
-            "stars": 340,
+            "stars": 339,
             "topics": [
               "database",
               "database-services",
@@ -583,7 +583,7 @@
                 "open_issues": 24,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1527,
+                "stars": 1528,
                 "topics": [
                   "code",
                   "editor",
@@ -633,7 +633,7 @@
                 "id": 39417599,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T02:46:03Z",
+                "last_commit": "2026-11-20T18:10:29Z",
                 "open_issues": 163,
                 "owner": "popcodeorg",
                 "repo": "popcode",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:29:55.614Z",
+    "last_updated": "2026-11-20T19:07:33.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -666,10 +666,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2024-12-03T22:54:05Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3544,
+      "stars": 3543,
       "topics": [
         "awesome",
         "awesome-list",
