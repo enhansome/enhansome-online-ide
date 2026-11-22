@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "EPL-2.0",
             "last_commit": "2026-11-20T22:32:23Z",
-            "open_issues": 1520,
+            "open_issues": 1522,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21780,
+            "stars": 21782,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -145,7 +145,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T04:56:34Z",
-            "open_issues": 935,
+            "open_issues": 939,
             "owner": "googlecolab",
             "repo": "colabtools",
             "stars": 2599,
@@ -219,7 +219,7 @@
             "open_issues": 24,
             "owner": "Atheos",
             "repo": "Atheos",
-            "stars": 681,
+            "stars": 680,
             "topics": [
               "cloud-ide",
               "editor",
@@ -579,8 +579,8 @@
                 "id": 328283993,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T15:37:25Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-21T20:54:52Z",
+                "open_issues": 24,
                 "owner": "live-codes",
                 "repo": "livecodes",
                 "stars": 1529,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:00:25.625Z",
+    "last_updated": "2026-11-22T18:32:38.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -669,7 +669,7 @@
       "open_issues": 17,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3544,
+      "stars": 3545,
       "topics": [
         "awesome",
         "awesome-list",
