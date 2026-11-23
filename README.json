@@ -15,11 +15,11 @@
             "id": 83050680,
             "language": "TypeScript",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-20T22:32:23Z",
-            "open_issues": 1522,
+            "last_commit": "2026-11-23T16:17:14Z",
+            "open_issues": 1520,
             "owner": "eclipse-theia",
             "repo": "theia",
-            "stars": 21782,
+            "stars": 21783,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -53,11 +53,11 @@
             "id": 130879558,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T17:09:26Z",
-            "open_issues": 448,
+            "last_commit": "2026-11-23T05:05:10Z",
+            "open_issues": 449,
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13799,
+            "stars": 13800,
             "topics": [
               "cde",
               "cloud",
@@ -145,10 +145,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T04:56:34Z",
-            "open_issues": 939,
+            "open_issues": 941,
             "owner": "googlecolab",
             "repo": "colabtools",
-            "stars": 2599,
+            "stars": 2601,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:40.771Z"
@@ -408,7 +408,7 @@
             "open_issues": 66,
             "owner": "JetBrains",
             "repo": "kotlin-playground",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "kotlin",
               "kotlin-playground",
@@ -583,7 +583,7 @@
                 "open_issues": 24,
                 "owner": "live-codes",
                 "repo": "livecodes",
-                "stars": 1529,
+                "stars": 1532,
                 "topics": [
                   "code",
                   "editor",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:32:38.436Z",
+    "last_updated": "2026-11-23T22:41:22.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌩️ A list of awesome online development environments",
@@ -669,7 +669,7 @@
       "open_issues": 17,
       "owner": "styfle",
       "repo": "awesome-online-ide",
-      "stars": 3545,
+      "stars": 3544,
       "topics": [
         "awesome",
         "awesome-list",
